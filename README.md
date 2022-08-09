@@ -1,4 +1,4 @@
-# Salary Slip Calculation
+# Multi Guards Passport API
 ## Admin login url Local   '/adminside/loginpage'
 - http://localhost/github/salary_calc/public/adminside/loginpage
 
