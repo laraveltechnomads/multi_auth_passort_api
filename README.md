@@ -35,7 +35,7 @@
 ## .env    - udpate list
 APP_NAME=Multi_Auth_Passort_Api
 APP_ENV=local
-APP_URL=http://localhost/github/salary_calc/public
+APP_URL=http://localhost/github/multi_auth_passort_api/public
 <br>
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
