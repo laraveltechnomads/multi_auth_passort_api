@@ -1,7 +1,4 @@
 # Multi Guards Passport API
-## Admin login url Local   '/adminside/loginpage'
-- http://localhost/github/salary_calc/public/adminside/loginpage
-
 
 ## Run commands First time
 
@@ -36,14 +33,14 @@
 
 
 ## .env    - udpate list
-APP_NAME=Salary_Calc
+APP_NAME=Multi_Auth_Passort_Api
 APP_ENV=local
 APP_URL=http://localhost/github/salary_calc/public
 <br>
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=hostapps_taskmanagement
+DB_DATABASE=multi_auth_passort_api
 DB_USERNAME=root
 DB_PASSWORD=
 
